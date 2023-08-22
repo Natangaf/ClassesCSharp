@@ -1,0 +1,15 @@
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\bin\Debug\net7.0\PrimeiroExercicio.exe
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\bin\Debug\net7.0\PrimeiroExercicio.deps.json
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\bin\Debug\net7.0\PrimeiroExercicio.runtimeconfig.json
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\bin\Debug\net7.0\PrimeiroExercicio.dll
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\bin\Debug\net7.0\PrimeiroExercicio.pdb
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\obj\Debug\net7.0\PrimeiroExercicio.csproj.AssemblyReference.cache
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\obj\Debug\net7.0\PrimeiroExercicio.GeneratedMSBuildEditorConfig.editorconfig
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\obj\Debug\net7.0\PrimeiroExercicio.AssemblyInfoInputs.cache
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\obj\Debug\net7.0\PrimeiroExercicio.AssemblyInfo.cs
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\obj\Debug\net7.0\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\obj\Debug\net7.0\PrimeiroExercicio.dll
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\obj\Debug\net7.0\refint\PrimeiroExercicio.dll
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\obj\Debug\net7.0\PrimeiroExercicio.pdb
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\obj\Debug\net7.0\PrimeiroExercicio.genruntimeconfig.cache
+F:\udemy\C#\Seção 4\Exercicios\PrimeiroExercicio\obj\Debug\net7.0\ref\PrimeiroExercicio.dll
